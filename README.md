@@ -1,4 +1,4 @@
-# 2018-n7-CRUG-PUG
+# R + Postgres Joint Meetup 2018-08-30
 
 Capturing the synergy of the Open Source movement, we bring together the popular analytical language and relational database for a joint meetup of the Chicago R User Group (CRUG) and PostgreSQL User Group (PUG)!
 
@@ -12,5 +12,5 @@ Parfait will open the event with a brief introduction to R and Databases includi
 ## Gene Leynes, Data Scientist at City Of Chicago
 Gene's work focuses on predictive analytics to help inform business decisions with advanced statistical techniques in many areas for the City of Chicago. He will discuss the City's database use case with "Practical Tips for Operationalizing R with Oracle and Postgres".
 
-##Adam Dziedzic, PhD student at the University of Chicago, Department of Computer Science
+## Adam Dziedzic, PhD student at the University of Chicago, Department of Computer Science
 Adam's research centers on data analysis and databases. He worked on data loading and migration between diverse database systems, specializing in PostgreSQL. Adam has interned at Microsoft Research and Google in core database research and software development. His interest and coursework involves machine and deep learning. He will discuss "Database Loading and Migration for PostgreSQL and other databases".
