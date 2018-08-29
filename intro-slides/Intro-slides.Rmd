@@ -1,0 +1,105 @@
+---
+title: "Chicago R User Group Meetup + Chicago PostgreSQL Meetup"
+author: " "
+date: "2018-08-30"
+output: RUGtools::intro_slides
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(RUGtools)
+```
+
+## Chicago R User Group News
+
+Leading up to this meetup, we reached 3333 members!
+
+```{r, out.width = "700px", , fig.align='center'}
+path1 <- paste0(getwd(), "/images/CRUG-members.png")
+knitr::include_graphics(path1)
+```
+
+
+# Local R News
+
+## R User Group {.smaller .columns-2}
+
+**RUGtools.** An R package containing data and functions to help organize the Chicago R User Group.
+
+```{r, out.width = "200px", fig.align='center'}
+path1 <- paste0(getwd(), "/images/CRUGtools.png")
+knitr::include_graphics(path1)
+```
+
+Follow us:
+
+![](images/GitHub-Mark.png) [Chicago-R-User-Group](https://twitter.com/ChicagoRusers)
+
+
+![](images/twitter50x41.png) @[ChicagoRusers](https://twitter.com/ChicagoRusers)
+
+
+## R Fortunes from the past
+
+```{r, echo=TRUE}
+fortunes::fortune()
+```
+
+## R-Ladies Chicago
+
+```{r, out.width = "150px", fig.align='left'}
+path2 <- paste0(getwd(), "/images/R-LadiesGlobal.png")
+knitr::include_graphics(path2)
+```
+
+
+Thank you for attending and all you do for the Chicago R community!
+
+For more information join the meetup and follow on twitter:
+
+
+![](images/m_swarm_50x50.png)[meetup.com/R-Ladies Chicago](https://www.meetup.com/rladies-chicago/)
+
+
+![](images/twitter50x41.png)@[RLadiesChicago](https://twitter.com/RLadiesChicago)
+
+# Anyone hiring R folks? 
+
+# Today's meetup and its Sponsor
+
+
+## Microsoft Developer Advocates
+
+```{r, out.width = "900px", , fig.align='center'}
+path1 <- paste0(getwd(), "/images/Microsoft-1.PNG")
+knitr::include_graphics(path1)
+```
+
+
+## Raffle:
+
+What ever giveaway the meetup has here. Ask a trivia question.
+
+
+## Today's Feature 
+
+
+- **Parfait Gasana** RPostgreSQL API
+
+- **Gene Leynes** Practical Tips for Operationalizing R with Oracle and Postgres
+
+- **Adam Dziedzic** Database Loading and Migration for PostgreSQL and other databases
+
+Thanks again to Microsoft Developer Advocates for sponsoring today's meetup!
+
+```{r, out.width = "400px"}
+path <- paste0(getwd(), "/images/MS_header.png")
+knitr::include_graphics(path)
+```
+
+
+
+
+
+
