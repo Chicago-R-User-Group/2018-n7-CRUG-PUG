@@ -2,7 +2,7 @@
 
 Capturing the synergy of the Open Source movement, we bring together the popular analytical language and relational database for a joint meetup of the Chicago R User Group (CRUG) and PostgreSQL User Group (PUG)!
 
-Doors open at 6 PM with talks starting at 6:30. Pizza will be provided by Microsoft developer advocates!
+Doors open at 6 PM with talks starting at 6:30. Pizza and meeting space provided by Microsoft developer advocates!
 
 Our lineup includes an introduction and two speakers who will enlighten the use of application layer language with a powerful, backend database engine:
 
