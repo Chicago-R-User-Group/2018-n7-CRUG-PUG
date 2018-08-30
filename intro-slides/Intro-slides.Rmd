@@ -11,40 +11,30 @@ knitr::opts_chunk$set(echo = FALSE)
 library(RUGtools)
 ```
 
-## Chicago R User Group News
-
-Leading up to this meetup, we reached 3333 members!
-
-```{r, out.width = "700px", , fig.align='center'}
-path1 <- paste0(getwd(), "/images/CRUG-members.png")
-knitr::include_graphics(path1)
-```
-
-
 # Local R News
 
-## R User Group {.smaller .columns-2}
+## R User Group Slack: bit.ly/Slack-CRUG 
 
-**RUGtools.** An R package containing data and functions to help organize the Chicago R User Group.
+![](images/slack_50x50.png) [bit.ly/Slack-CRUG](bit.ly/Slack-CRUG)
 
-```{r, out.width = "200px", fig.align='center'}
-path1 <- paste0(getwd(), "/images/CRUGtools.png")
-knitr::include_graphics(path1)
-```
-
-Follow us:
+**Also follow us:**
 
 ![](images/GitHub-Mark.png) [Chicago-R-User-Group](https://twitter.com/ChicagoRusers)
 
-
 ![](images/twitter50x41.png) @[ChicagoRusers](https://twitter.com/ChicagoRusers)
 
+## 2Q PGconf 2018 in Chicago: Dec 4th-5th
 
-## R Fortunes from the past
-
-```{r, echo=TRUE}
-fortunes::fortune()
+```{r, out.width = "150px", fig.align='left'}
+path2 <- paste0(getwd(), "/images/elephant.png")
+knitr::include_graphics(path2)
 ```
+
+2Q PGconf is looking for dynamic presentations, case studies, and technical talks on PostgreSQL. To submit a talk, please visit:
+
+**[http://www.2qpgconf.com/#cfp](http://www.2qpgconf.com/#cfp)**
+
+Submission deadline is **Sep 12, 2018** midnight Pacific Time.
 
 ## R-Ladies Chicago
 
@@ -77,11 +67,6 @@ knitr::include_graphics(path1)
 ```
 
 
-## Raffle:
-
-What ever giveaway the meetup has here. Ask a trivia question.
-
-
 ## Today's Feature 
 
 
@@ -91,7 +76,7 @@ What ever giveaway the meetup has here. Ask a trivia question.
 
 - **Adam Dziedzic** Database Loading and Migration for PostgreSQL and other databases
 
-Thanks again to Microsoft Developer Advocates for sponsoring today's meetup!
+Thanks again to David Smith and  Microsoft Developer Advocates for sponsoring today's meetup!
 
 ```{r, out.width = "400px"}
 path <- paste0(getwd(), "/images/MS_header.png")
