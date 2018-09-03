@@ -70,7 +70,7 @@ knitr::include_graphics(path1)
 ## Today's Feature 
 
 
-- **Parfait Gasana** RPostgreSQL API
+- **Parfait Gasana** R and Databases: Introduction
 
 - **Gene Leynes** Practical Tips for Operationalizing R with Oracle and Postgres
 

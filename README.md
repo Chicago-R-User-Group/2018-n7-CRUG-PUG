@@ -1,5 +1,7 @@
 # R + Postgres Joint Meetup 2018-08-30
 
+<img src="https://github.com/Chicago-R-User-Group/2018-n7-CRUG-PUG/blob/master/R-and-Databases-Intro/Images/R_Postgres.jpg" height="150px" alt="R Postgres Image"/>
+
 Capturing the synergy of the Open Source movement, we bring together the popular analytical language and relational database for a joint meetup of the Chicago R User Group (CRUG) and PostgreSQL User Group (PUG)!
 
 Doors open at 6 PM with talks starting at 6:30. Pizza and meeting space provided by Microsoft developer advocates!
